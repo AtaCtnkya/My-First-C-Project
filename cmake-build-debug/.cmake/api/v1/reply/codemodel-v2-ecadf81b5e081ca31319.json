@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/atano/CLionProjects/My_First_CPP_Program/cmake-build-debug",
-		"source" : "C:/Users/atano/CLionProjects/My_First_CPP_Program"
+		"build" : "D:/Programming/CLionProjects/My-First-C-Project/cmake-build-debug",
+		"source" : "D:/Programming/CLionProjects/My-First-C-Project"
 	},
 	"version" : 
 	{
